@@ -1,2 +1,2 @@
-DATA SCIENCE AND ANALYTICS WITH PYTHON
+Useful Python Things
 ======================================
