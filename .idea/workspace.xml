@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e21dae1a-df3b-483d-aeac-55be1c44c4cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/print_format.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/print_format.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/print_format.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="496">
+              <caret line="55" column="63" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -73,8 +72,8 @@
         <option value="$PROJECT_DIR$/xlsx_read_write.py" />
         <option value="$PROJECT_DIR$/merge_two_csvs_with_pandas.py" />
         <option value="$PROJECT_DIR$/python_selenium_options.py" />
-        <option value="$PROJECT_DIR$/print_format.py" />
         <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/print_format.py" />
       </list>
     </option>
   </component>
@@ -107,7 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="E:/8_Project/Progress/2018-12-14 debugging Scrapy script/Code/scrapy script_mine" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -127,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1">
+  <component name="RunManager" selected="Python.print_format">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,8 +192,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1" />
         <item itemvalue="Python.print_format" />
+        <item itemvalue="Python.1" />
         <item itemvalue="Python.sort_list" />
       </list>
     </recent_temporary>
@@ -214,8 +213,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -269,6 +269,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1.py" />
     <entry file="file://$PROJECT_DIR$/save_unicode_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -286,20 +287,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/print_format.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="496">
+          <caret line="55" column="63" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="63" />
         </state>
       </provider>
     </entry>
