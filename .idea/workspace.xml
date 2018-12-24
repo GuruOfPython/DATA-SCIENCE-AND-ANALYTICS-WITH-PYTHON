@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e21dae1a-df3b-483d-aeac-55be1c44c4cf" name="Default Changelist" comment="" />
+    <list default="true" id="e21dae1a-df3b-483d-aeac-55be1c44c4cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/convert_string_to_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert_string_to_time.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +24,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/convert_string_to_time.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/remove_file_python.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <caret line="2" column="71" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -155,14 +160,15 @@
         <option value="$PROJECT_DIR$/convert_image_to_text.py" />
         <option value="$USER_HOME$/Anaconda3/Lib/site-packages/wand/api.py" />
         <option value="$PROJECT_DIR$/convert_pdf_to_text.py" />
-        <option value="$PROJECT_DIR$/convert_string_to_time.py" />
         <option value="$PROJECT_DIR$/how_to_check_if_file_or_folder.py" />
         <option value="$PROJECT_DIR$/remove_file_python.py" />
+        <option value="$PROJECT_DIR$/convert_string_to_time.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="867" />
+    <option name="y" value="79" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
@@ -593,13 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/convert_string_to_time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/how_to_check_if_file_or_folder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -610,7 +609,17 @@
     <entry file="file://$PROJECT_DIR$/remove_file_python.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <caret line="2" column="71" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convert_string_to_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
