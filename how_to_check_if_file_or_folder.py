@@ -9,3 +9,4 @@ if not os.path.exists(folder_name):
 result_file_name = 'Result/result.csv'
 if os.path.isfile(result_file_name):
     fp = open(result_file_name, 'w', encoding='utf-8')
+
