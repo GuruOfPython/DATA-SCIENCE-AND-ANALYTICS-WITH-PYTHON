@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e21dae1a-df3b-483d-aeac-55be1c44c4cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/split or unsplit url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/embed_image_link_to_xlsx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,21 +47,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/google_maps_api.py">
+        <entry file="file://$PROJECT_DIR$/split or unsplit url.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="204">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/split or unsplit url.py">
+        <entry file="file://$PROJECT_DIR$/embed_image_link_to_xlsx.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="170">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,6 +134,7 @@
       <find>library_paths</find>
       <find>MAGICK_HOME</find>
       <find>magick_home</find>
+      <find>&gt;&gt;&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>input_data</replace>
@@ -169,6 +173,7 @@
         <option value="$PROJECT_DIR$/nltk_tst.py" />
         <option value="$PROJECT_DIR$/google_maps_api.py" />
         <option value="$PROJECT_DIR$/split or unsplit url.py" />
+        <option value="$PROJECT_DIR$/embed_image_link_to_xlsx.py" />
       </list>
     </option>
   </component>
@@ -192,6 +197,11 @@
               <item name="Useful-Python-Things" type="b2602c69:ProjectViewProjectNode" />
               <item name="Useful-Python-Things" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Useful-Python-Things" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Useful-Python-Things" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -204,11 +214,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\9_Github\12_GuruOfPython\DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\9_Github\12_GuruOfPython\Useful-Python-Things\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\9_Github\12_GuruOfPython\DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -223,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.google_maps_api">
+  <component name="RunManager" selected="Python.embed_image_link_to_xlsx">
     <configuration name="convert_string_to_time" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,6 +247,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convert_string_to_time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="embed_image_link_to_xlsx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/embed_image_link_to_xlsx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,34 +339,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remove_file_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/remove_file_python.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.embed_image_link_to_xlsx" />
         <item itemvalue="Python.google_maps_api" />
         <item itemvalue="Python.nltk_tst" />
         <item itemvalue="Python.name_parser" />
         <item itemvalue="Python.convert_string_to_time" />
-        <item itemvalue="Python.remove_file_python" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +366,7 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15964173" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17492098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -625,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nltk_tst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/download_pdf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -641,17 +644,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/google_maps_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nltk_tst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/split or unsplit url.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/embed_image_link_to_xlsx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
