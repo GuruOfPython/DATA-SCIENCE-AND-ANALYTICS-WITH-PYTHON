@@ -1,18 +1,33 @@
-import openpyxl
-from openpyxl import load_workbook
+import xlsxwriter
+import imageio
+import sys
+
+# pict = imageio.imread('Gmap_1.png')
+#
+# workbook = xlsxwriter.Workbook('demo.xlsx')
+# worksheet = workbook.add_worksheet()
+#
+# for i in range(0, pict.shape[0]):
+#     for j in range(0, pict.shape[1]):
+#         a = pict[i, j]
+#         col = '#%02x%02x%02x' % (a[0], a[1], a[2])
+#         format = workbook.add_format()
+#         format.set_bg_color(col)
+#         worksheet.write(i, j, '', format)
+# workbook.close()
+
+
+#!/usr/bin/python3
+
 from openpyxl import Workbook
-from PIL import Image
+from openpyxl.drawing.image import Image
 
-width = 100
-height = 100
+book = Workbook()
+sheet = book.active
 
-img = Image.open('images/P_6.png')
-# img = img.resize((width,height))
-img.save('images/P_5.png')
+img = Image("Gmap_1.png")
+sheet['A1'] = 'This is Sid'
 
-wb = openpyxl.Workbook()
-ws = wb.worksheets[0]
-img = openpyxl.drawing.image.Image('images/P_5.png')
-ws.add_image(img,'F10')
-wb.save('out.xlsx')
-print('ready')
+sheet.add_image(img, 'B2')
+
+book.save("demo.xlsx")
