@@ -8,6 +8,6 @@ results = r.json()['results']
 print(results)
 
 
-url = "https://maps.googleapis.com/maps/api/geocode/json?address=Alberta, Canada&key=AIzaSyAAQgbbvo5dnbghgFReOCFw65mHeTlcla4"
+url = "https://maps.googleapis.com/maps/api/geocode/json?address=Alberta, Canada&key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 r = requests.get(url)
 print(r.json())
