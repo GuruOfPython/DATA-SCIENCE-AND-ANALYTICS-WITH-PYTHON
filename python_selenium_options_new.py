@@ -20,5 +20,7 @@ def build_chrome_options():
     chrome_options.add_argument("--disable-ipv6")
     chrome_options.add_argument("--allow-http-screen-capture")
     chrome_options.add_argument("--start-maximized")
+    chrome_options.add_argument(
+        '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36')
 
-    return chrome_options 
+    return chrome_options
