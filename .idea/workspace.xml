@@ -54,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python_selenium_options_new.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="374">
+              <caret line="23" column="139" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="139" />
             </state>
           </provider>
         </entry>
@@ -242,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.logging_tst">
+  <component name="RunManager" selected="Python.randomize delay">
     <configuration name="amazon_result_parser_with_re" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -327,7 +327,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="query_tst" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="randomize delay" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,7 +339,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/query_tst.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomize delay.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,11 +350,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.randomize delay" />
         <item itemvalue="Python.logging_tst" />
         <item itemvalue="Python.amazon_result_parser_with_re" />
         <item itemvalue="Python.encoding URL" />
         <item itemvalue="Python.check os" />
-        <item itemvalue="Python.query_tst" />
       </list>
     </recent_temporary>
   </component>
@@ -773,8 +773,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python_selenium_options_new.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="374">
+          <caret line="23" column="139" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="139" />
         </state>
       </provider>
     </entry>
