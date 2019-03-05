@@ -21,11 +21,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/read_xlsx_pandas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state>
+              <caret selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/navigate all files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -35,15 +44,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/make_random_header.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -138,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/xlsx_read_write.py" />
         <option value="$PROJECT_DIR$/merge_two_csvs_with_pandas.py" />
         <option value="$PROJECT_DIR$/python_selenium_options.py" />
         <option value="$PROJECT_DIR$/1.py" />
@@ -189,6 +188,7 @@
         <option value="$PROJECT_DIR$/scan_local_ips.py" />
         <option value="$PROJECT_DIR$/argparse_.py" />
         <option value="$PROJECT_DIR$/read_xlsx_pandas.py" />
+        <option value="$PROJECT_DIR$/navigate all files.py" />
       </list>
     </option>
   </component>
@@ -244,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.read_xlsx_pandas">
+  <component name="RunManager" selected="Python.navigate all files">
     <configuration name="cartesian product of a series of lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,27 +266,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="encoding URL" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encoding URL.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="fuzzy_compare_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -300,6 +279,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fuzzy_compare_strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="navigate all files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DATA-SCIENCE-AND-ANALYTICS-WITH-PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/navigate all files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,11 +352,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.navigate all files" />
         <item itemvalue="Python.read_xlsx_pandas" />
         <item itemvalue="Python.scan_local_ips" />
         <item itemvalue="Python.fuzzy_compare_strings" />
         <item itemvalue="Python.cartesian product of a series of lists" />
-        <item itemvalue="Python.encoding URL" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +457,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/P_6.png" />
     <entry file="file://$PROJECT_DIR$/images/P_7.png" />
     <entry file="file://$PROJECT_DIR$/images/P_8.png" />
     <entry file="file://$PROJECT_DIR$/images/P_9.png" />
@@ -769,8 +768,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/read_xlsx_pandas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state>
+          <caret selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigate all files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
         </state>
       </provider>
     </entry>
