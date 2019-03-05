@@ -1,6 +1,6 @@
-import argparse
+import argparse_
 
-parser = argparse.ArgumentParser(description='This script scrapes "https://www.samstores.com"')
+parser = argparse_.ArgumentParser(description='This script scrapes "https://www.samstores.com"')
 parser.add_argument('--l', type=str,
                     metavar='link',
                     help='What is the link you want to scrape?')
